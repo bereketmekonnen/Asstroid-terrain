@@ -1,0 +1,2 @@
+splot 'terrain.txt' matrix with lines notitle
+pause -1
